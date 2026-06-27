@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ayoub Aarkoub
+# Ayoub
 
 **Software Developer** · Full-Stack · Devops · AI
 
