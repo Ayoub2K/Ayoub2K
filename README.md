@@ -2,10 +2,7 @@
 
 # Ayoub Aarkoub
 
-**Software Developer** · Full-Stack · Cloud & DevOps · Data & AI
-
-[![Email](https://img.shields.io/badge/ayoubaarkoub@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayoubaarkoub@gmail.com)
-[![GitHub](https://img.shields.io/badge/Ayoub2K-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ayoub2K)
+**Software Developer** · Full-Stack · Cloud · Data & AI
 
 </div>
 
