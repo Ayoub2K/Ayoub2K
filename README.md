@@ -2,7 +2,7 @@
 
 # Ayoub Aarkoub
 
-**Software Developer** · Full-Stack · Cloud · Data & AI
+**Software Developer** · Full-Stack · Devops · AI
 
 </div>
 
