@@ -2,4 +2,5 @@
 
 # Ayoub
 
-**Software Engineer** · Full-Stack · Architecture · AI
+**Software Engineer** 
+Full-Stack · Architecture · AI
